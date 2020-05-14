@@ -11,7 +11,7 @@
 [cran-knitr]: https://cran.r-project.org/package=knitr
 [cran-stringr]: https://cran.r-project.org/package=stringr
 [dc-lessons]: http://www.datacarpentry.org/lessons/
-[email]: mailto:team@carpentries.org
+[email]: mailto:lngo@wcupa.edu
 [github-importer]: https://import.github.com/
 [importer]: https://github.com/new/import
 [jekyll-collection]: https://jekyllrb.com/docs/collections/
@@ -45,5 +45,4 @@
 [swc-lessons]: https://software-carpentry.org/lessons/
 [swc-releases]: https://github.com/swcarpentry/swc-releases
 [training]: https://carpentries.github.io/instructor-training/
-[workshop-repo]: {{ site.workshop_repo }}
 [yaml]: http://yaml.org/

@@ -31,7 +31,8 @@ def main():
     for path in BOILERPLATE:
         if os.path.exists(path):
             print('Warning: {0} already exists.'.format(path), file=sys.stderr)
-            errors = True
+            #os.remove(path)
+            errors = False
     if errors:
         print('**Exiting without creating files.**', file=sys.stderr)
         sys.exit(1)
