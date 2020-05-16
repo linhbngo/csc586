@@ -45,3 +45,4 @@
 [swc-releases]: https://github.com/swcarpentry/swc-releases
 [training]: https://carpentries.github.io/instructor-training/
 [yaml]: http://yaml.org/
+[vb_64-bit]: https://forums.virtualbox.org/viewtopic.php?f=1&t=62339
