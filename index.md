@@ -5,40 +5,39 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 ---
 
 > ## Instructor
-> - **Instructor**: Golden Rams
-> - **Office**: the Quad
-> - **Office Hours**: 24/7
-> - **Email**: goldenrams AT wcupa DOT edu
-> - **Phone**: 123 456 7890
+> - **Instructor**: Linh Ngo
+> - **Office**: Room 138, 25 University Avenue (UNA Building)
+> - **Office Hours**: TBD
+> - **Email**: lngo AT wcupa DOT edu
+> - **Phone**: 610-436-2595 (don't call, email)
 {: .prereq}
 
 > ## Course Description
-> Course description goes here
->
+> This course is a hands-on study of operating system administration essentials with a focus on 
+> systems security and time in the lab. Additionally, various script languages are taught to 
+> provide a basis for understanding and extending the system capabilities.
 {: .prereq}
 
 > ## Learning Objectives:
 >
 > ### Student Learning Objectives:
-> - SLO1
+> - Know how to install and configure a basic Linux operating system.  
+> - Understand the core components within a Linux operating system. 
+> - Know how to write programs in the Bash scripting language to automate system tasks.
+> - Know how to carry out user management tasks. 
+> - Know how to setup Network File System. 
+> - Know how to setup Single Sign On for multiple computers across the network. 
 >
-> ### General Education Learning Objectives:
-> - GELO1
->
-> ### Alignment of Course to General Education Goals:
-> - Alignment 1
->
-> ### Artifacts used to demonstrate Student Learning Outcomes:
+> ### Graduate Student Learning Objectives:
+> - Students demonstrate an ability to identify computing requirements.
+> - Students demonstrate an ability to use current techniques and skills necessary for computing practices.
+> - Students demonstrate an ability to design and develop software systems of varying complexity.
 >
 {: .objectives}
 
-
-> ## Prerequisites
-> This course requires ...
-{: .prereq}
-
 > ## Required Text (either print or e-book):
->
+> **Unix and Linux System Administration Handbook** 5th Edition by Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley, and Dan Mackin. 
+> ISBN-13: 978-0134277554
 {: .prereq}
 
 > ## Evaluation Policy:
@@ -47,11 +46,9 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 >
 > | Percentage | Tasks |
 > | ---------- | ----- |
-> | 20% | Homework Sets (approximately 4-5 homework sets) |
-> | 15% | Labs (approximately biweekly labs) |
-> | 5% | Problets (online practice exercises) |
-> | 45% | Three Midterm Exams (15% each) |
-> | 15% | Final Exam |
+> | 40% | Assignments |
+> | 40% | Practice Labs |
+> | 20% | Quizzes |
 >
 > ### Grade Scale:
 >
@@ -71,8 +68,7 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 > | <= 59	| F |
 >
 > ### Lateness Policy:
-> Assignments that are late are assessed a 10% per day late penalty.
-> Saturday and Sunday are each days.
+> Due to the shortened duration of summer semester, no late assignment will be accepted. 
 {: .keypoints}
 
 

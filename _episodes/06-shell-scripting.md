@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Shell Scripting"
 teaching: 0
 exercises: 0
 questions:
